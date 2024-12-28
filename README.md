@@ -9,10 +9,10 @@ You could equally just import your csv file into your environment but note that 
 Download the raw file or fork it and run it on your local environment. 
 
 ### Libraries and Packages Needed
-####### Pandas
-####### SqlAlchemy
-####### Numpy
-####### Plotly.express
-####### Summarytools
+##### Pandas
+##### SqlAlchemy
+##### Numpy
+##### Plotly.express
+##### Summarytools
 
 
